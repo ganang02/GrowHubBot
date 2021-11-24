@@ -1,14 +1,14 @@
 {
-"autoread": false,
+"autoread": true,
 "autoplaymusic": true,
 "autocomposing": false,
 "autorecording": true,
-"NamaBot":"AyaaBot", 
-"NomorOwner":"6282138919347", 
-"NamaOwner":"Helga Ilham", 
+"NamaBot":"GrowHubBOT", 
+"NomorOwner":"6289661945278", 
+"NamaOwner":"Lexshinn", 
 "Gopay" : "Qris",
-"Ovo" : "081398860278",
-"Dana" : "081398860278",
+"Ovo" : "089661945278",
+"Dana" : "089661945278",
 "LolKey": "DashBot",
 "HunterApi":"Ikyy69"
 }
